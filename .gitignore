@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- PyInstaller build ---
+/build/
+/dist/
+/*.spec
+
+# --- OS / Editor junk ---
+.DS_Store
+Thumbs.db
+*.log
