@@ -1,5 +1,4 @@
-# 🧮 Mega-Calculator (Tkinter)
-
+# 🧮 Mega-Calculator
 A simple GUI-based calculator built with **Python** and **Tkinter**.  
 Packaged into a portable executable (`.exe`) using **PyInstaller**, so it runs on Windows without requiring Python or Tkinter installed.
 
