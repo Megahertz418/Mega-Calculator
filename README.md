@@ -41,7 +41,7 @@ Calculator.png
    ```bash
    git clone https://github.com/YourUser/Mega-Calculator.git
    cd Mega-Calculator
-````
+```
 
 3. Run the app:
 
